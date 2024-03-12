@@ -1,0 +1,5 @@
+car
+accident
+truck
+human
+accident
